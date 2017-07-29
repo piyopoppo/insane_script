@@ -1,0 +1,9 @@
+span[data-event-tag="link"]:hover {
+    background: #666;
+    text-decoration: underline;
+}
+.chara_name_area {
+    text-align: center;
+    width: 150px !important;
+    left: 0px !important;
+}
